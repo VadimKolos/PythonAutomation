@@ -1,5 +1,3 @@
-import math
-
 try:
     a, b = float(input("input number: ")), float(input("input second number: "))
 
@@ -9,8 +7,3 @@ try:
         print("Impossible to calculate the square root of a negative number")
 except ValueError:
     print("Incorrect input")
-
-
-
-
-

@@ -5,4 +5,4 @@ def multiply_numbers(*numbers):
     print("result: ", result)
 
 
-multiply_numbers(1, 4, 2, 3, 0)
+multiply_numbers(1, 4, 2, 3)
