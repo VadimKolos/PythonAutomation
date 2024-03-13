@@ -7,4 +7,4 @@ def test_go_to_login(browser):
     page.open()
     page.login_to_account()
 
-    browser.save_screenshot('screen1')
+    browser.save_screenshot('screen1.png')
